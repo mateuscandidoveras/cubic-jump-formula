@@ -24,7 +24,6 @@ def raiz_cubica():
     print(f"{n}³ = {y}")
     print(f"Próximo cubo perfeito: {z}")
     print(f"Cálculo: {y} + (3*{n})*({n}+1) + 1 = {z}")
-    print(f"{y} * 8 = {py}, que é (2*{n})³")
 ```
 ✨ **Por que essa fórmula é inovadora?**
 
